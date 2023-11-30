@@ -2,6 +2,7 @@
 
 - Manisa Celal Bayar University
   - Computer Engineering (2016 - 2020)
+    
 - Anadolu University
   - Business Administration (2018 - 2023)
 
