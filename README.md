@@ -1,5 +1,5 @@
 📍 Izmir, Turkey   
-📧 nihan.akinci.35@gmail.com
+📧 [Email](mailto:nihan.akinci.35@gmail.com)
 🔗 [LinkedIn](https://linkedin.com/in/nihanakinci)
 
 ## Education
