@@ -1,5 +1,7 @@
-📞 +90-534-628-8846 📧 nihan.akinci.35@gmail.com
-📍 Izmir, Turkey 🔗 [LinkedIn](https://linkedin.com/in/nihanakinci)
+📞 +90-534-628-8846 
+📧 nihan.akinci.35@gmail.com
+📍 Izmir, Turkey 
+🔗 [LinkedIn](https://linkedin.com/in/nihanakinci)
 
 ## Education
 
