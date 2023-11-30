@@ -1,7 +1,3 @@
-# About Me
-
-I am a Junior DevOps Engineer, passionate about expanding my knowledge in technology; particularly in Kubernetes and Containers. I enjoy tackling new challenges and value collaboration in projects. Previously a Business Analyst, I bring an understanding of how to align technology with business, a skill that is valuable in the DevOps environment.
-
 ## Experience
 
 ### Business Analyst - SmartMessage
@@ -28,19 +24,15 @@ I am a Junior DevOps Engineer, passionate about expanding my knowledge in techno
 - Created an analysis document detailing connection definitions and redirections for application communications, traditionally managed manually in JSON files.
 - Developed an application for streamlining the management of these definitions and redirects, using Angular for the project's implementation.
 
-## Nihan Akinci
-Junior DevOps Engineer
-
 ## Education
 
 - Manisa Celal Bayar University
   - Computer Engineering (2016 - 2020)
 
+ -Anadolu University
+  - Business Administration (2018 - 2023)
+    
 ## Projects
-
-### Anadolu University
-- Business Administration (2018 - 2023)
-
 ### Prometheus Configuration For Redis Monitoring and Charts
 I configured the Helm charts and created a monitoring stack that monitors Redis metrics and visualizes it in Grafana. The project also includes node exporter and kube-state-metrics for cluster observability.
 [GitHub Repository](https://github.com/naknc/K8s-Monitoring-Stack-with-Helm)
