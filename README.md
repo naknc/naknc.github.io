@@ -31,6 +31,12 @@
 - Conducted test executions and regression tests, promptly identifying and resolving defects, thus reducing product failure risks and enhancing customer satisfaction.
 - Supported user acceptance tests, collaborating with end-users and stakeholders for smooth testing, timely feedback, and issue resolution.
 
+### Intern - Softtech
+2019 | Izmir - Turkey (Remote)
+
+- Created an analysis document detailing connection definitions and redirections for application communications, traditionally managed manually in JSON files.
+- Developed an application for streamlining the management of these definitions and redirects, using Angular for the project's implementation.
+
 ## Skills
 
 - Kubernetes
@@ -50,12 +56,6 @@
 - German (A2)
 - Turkish (Native)
 
-### Intern - Softtech
-2019 | Izmir - Turkey (Remote)
-
-- Created an analysis document detailing connection definitions and redirections for application communications, traditionally managed manually in JSON files.
-- Developed an application for streamlining the management of these definitions and redirects, using Angular for the project's implementation.
-    
 ## Projects
 ### Prometheus Configuration For Redis Monitoring and Charts
 I configured the Helm charts and created a monitoring stack that monitors Redis metrics and visualizes it in Grafana. The project also includes node exporter and kube-state-metrics for cluster observability.
