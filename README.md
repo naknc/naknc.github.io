@@ -31,6 +31,25 @@
 - Conducted test executions and regression tests, promptly identifying and resolving defects, thus reducing product failure risks and enhancing customer satisfaction.
 - Supported user acceptance tests, collaborating with end-users and stakeholders for smooth testing, timely feedback, and issue resolution.
 
+## Skills
+
+- Kubernetes
+- Docker
+- Helm
+- Prometheus/Grafana
+- Linux/Bash
+- Agile Methodologies
+- Git
+- SQL
+- Jira
+- Postman/Swagger
+
+## Languages
+
+- English (C1)
+- German (A2)
+- Turkish (Native)
+
 ### Intern - Softtech
 2019 | Izmir - Turkey (Remote)
 
