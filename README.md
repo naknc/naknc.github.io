@@ -1,3 +1,10 @@
+## Education
+
+- Manisa Celal Bayar University
+  - Computer Engineering (2016 - 2020)
+-Anadolu University
+  - Business Administration (2018 - 2023)
+
 ## Experience
 
 ### Business Analyst - SmartMessage
@@ -23,14 +30,6 @@
 
 - Created an analysis document detailing connection definitions and redirections for application communications, traditionally managed manually in JSON files.
 - Developed an application for streamlining the management of these definitions and redirects, using Angular for the project's implementation.
-
-## Education
-
-- Manisa Celal Bayar University
-  - Computer Engineering (2016 - 2020)
-
- -Anadolu University
-  - Business Administration (2018 - 2023)
     
 ## Projects
 ### Prometheus Configuration For Redis Monitoring and Charts
